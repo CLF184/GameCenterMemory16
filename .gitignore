@@ -1,0 +1,14 @@
+tools/*.jar
+tools/*.aar
+tools/*.zip
+tools/*.exe
+tools/*.p12
+*.p12
+*.jks
+*.keystore
+*.key
+*.pem
+__pycache__/
+*.pyc
+build/
+dist/

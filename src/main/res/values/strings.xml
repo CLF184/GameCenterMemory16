@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_description">仅将小米游戏中心上传的 totalMemoryKb 改为16GiB</string>
+</resources>
